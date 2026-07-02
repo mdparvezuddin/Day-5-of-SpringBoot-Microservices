@@ -1,4 +1,4 @@
-# Day 04 - Spring Boot Microservices with Eureka Server
+# Day 05 - Spring Boot Microservices with Eureka Server
 
 ## Project Overview
 
